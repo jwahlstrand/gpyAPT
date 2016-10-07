@@ -6,7 +6,7 @@ from gi.repository import Gtk,GLib,Gio
 
 # warning: this program has only been tested with one rotation stage
 
-serial=str(83857500)
+serial=str(83841365)
 
 true_home=131.2
 
